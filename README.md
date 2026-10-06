@@ -2,21 +2,13 @@
 
 ### Junior AI / Machine Learning Engineer
 
-Computer Engineer with a **Master's Degree in Artificial Intelligence**, focused on building practical AI systems that combine **Machine Learning, Deep Learning and Software Engineering**.
+Computer Engineer with a **Master's Degree in Artificial Intelligence**, focused on building practical and production-oriented AI systems combining **Machine Learning, Deep Learning and Software Engineering**.
 
-My main interests are **AI Engineering, Machine Learning, Computer Vision, Generative AI and AI Agents**.
+I enjoy going beyond notebooks: designing reproducible ML pipelines, building structured software, evaluating models and turning AI experiments into usable applications.
 
-I enjoy going beyond notebooks: designing structured projects, building reproducible ML pipelines, exposing models through APIs, testing software and experimenting with modern AI architectures.
+**Python · PyTorch · scikit-learn · Computer Vision · AutoML · AI Agents · MCP**
 
----
-
-## 🧠 What I'm currently working on
-
-- 🤖 **Machine Learning & AutoML**
-- 👁️ **Computer Vision & Deep Learning**
-- 🧩 **AI Agents & Model Context Protocol (MCP)**
-- 🔎 **LLM, RAG & Retrieval Systems**
-- ⚙️ **Production-oriented AI systems**
+📍 Spain · Open to remote opportunities
 
 ---
 
@@ -24,132 +16,118 @@ I enjoy going beyond notebooks: designing structured projects, building reproduc
 
 ### 🤖 CATML — Agent-Native AutoML Engine
 
-An AutoML platform designed to automate and structure machine-learning experimentation while maintaining clean software architecture.
+Production-oriented **AutoML platform** designed to automate and structure machine-learning experimentation while maintaining clean software architecture.
 
-**Main features:**
+Built with a modular architecture and an **MCP interface that enables AI agents to interact with machine-learning experiments and workflows**.
 
-- Automated ML experimentation
-- Classification pipelines
+**Highlights**
+- Automated ML experimentation and model comparison
 - Leakage-safe model evaluation
-- Experiment tracking
-- Model artifact management
+- Experiment tracking and model artifact management
+- Modular architecture
 - CLI and web interfaces
 - MCP integration for AI agents
-- Modular architecture
 - Automated testing and CI/CD
 
-**Tech stack**
+**Tech:** `Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `MCP` · `pytest` · `GitHub Actions`
 
-`Python` · `scikit-learn` · `XGBoost` · `LightGBM` · `MCP` · `pytest` · `GitHub Actions`
-
-👉 **[View CATML](https://github.com/Jfenic/CATML)**
+👉 [Explore CATML](https://github.com/Jfenic/CATML)
 
 ---
 
 ### 👁️ Industrial Defect Segmentation — Master's Thesis
 
-Deep Learning research project focused on **semantic segmentation of industrial defects**, comparing convolutional neural networks and Vision Transformers.
+Deep Learning project focused on **semantic segmentation of industrial defects**, comparing convolutional and Transformer-based architectures under severe class imbalance.
 
-The project compares **ConvNeXt and Swin Transformer architectures with UPerNet** under severe class imbalance.
+Implemented and evaluated **ConvNeXt and Swin Transformer with UPerNet** using a reproducible PyTorch training pipeline.
 
-**Highlights:**
+| Model | Dice | IoU | Precision | Recall |
+|---|---:|---:|---:|---:|
+| ConvNeXt | 27.41% | 15.88% | **93.48%** | 16.06% |
+| **Swin Transformer** | **33.47%** | **20.10%** | 93.04% | **20.41%** |
 
-- End-to-end segmentation pipeline
+**Highlights**
+- Semantic segmentation pipeline
 - ConvNeXt vs Swin Transformer comparison
-- Transfer Learning
+- Transfer learning
 - Data augmentation
 - Class imbalance analysis
 - Threshold optimization
 - Explainable AI (XAI)
 - Experiment tracking
-- Reproducible training pipeline
 - Interactive demo
 
-**Results**
+**Tech:** `Python` · `PyTorch` · `ConvNeXt` · `Swin Transformer` · `UPerNet` · `Albumentations` · `Weights & Biases` · `Gradio`
 
-| Model | Dice | IoU | Precision | Recall |
-|---|---:|---:|---:|---:|
-| ConvNeXt | 27.41% | 15.88% | 93.48% | 16.06% |
-| **Swin Transformer** | **33.47%** | **20.10%** | 93.04% | **20.41%** |
-
-**Tech stack**
-
-`Python` · `PyTorch` · `ConvNeXt` · `Swin Transformer` · `UPerNet` · `Albumentations` · `Weights & Biases` · `Gradio`
-
-👉 **[View Master's Thesis](https://github.com/Jfenic/TFM-Computer-Vision-Segmentation-ConvNext-Swin)**
+👉 [Explore the Master's Thesis](https://github.com/Jfenic/TFM-Computer-Vision-Segmentation-ConvNext-Swin)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Artificial Intelligence & Machine Learning
+**Machine Learning**  
+`Classification` · `Regression` · `Clustering` · `Feature Engineering` · `Model Evaluation` · `AutoML`
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Classification` · `Regression` · `Clustering` · `Model Evaluation` · `Feature Engineering`
+**Deep Learning & Computer Vision**  
+`PyTorch` · `CNNs` · `Vision Transformers` · `Semantic Segmentation` · `Transfer Learning`
 
-### Generative AI
+**AI Engineering**  
+`AI Agents` · `MCP` · `REST APIs` · `FastAPI`
 
-`LLMs` · `RAG` · `Embeddings` · `AI Agents` · `MCP` · `Prompt Engineering`
+**Data**  
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `SQL`
 
-### Languages & Frameworks
-
-`Python` · `PyTorch` · `scikit-learn` · `Pandas` · `NumPy` · `FastAPI`
-
-### Engineering & Tools
-
-`Git` · `GitHub` · `Docker` · `REST APIs` · `pytest` · `CI/CD` · `Linux`
-
-### Data
-
-`SQL` · `Data Analysis` · `Data Preprocessing` · `Experiment Tracking`
+**Software Engineering**  
+`Git` · `GitHub` · `pytest` · `CI/CD` · `Docker` · `Linux`
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning & Exploring
 
 I'm currently expanding my knowledge in:
 
-- Production-ready **RAG architectures**
-- **LLM evaluation**
-- Vector databases
-- Agentic AI workflows
-- LangGraph
-- MLOps
-- Model deployment and monitoring
+- 🧠 Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🗄️ Vector databases & embeddings
+- 🤖 Agentic AI workflows
+- 🔗 LangGraph
+- 📊 LLM & RAG evaluation
+- ⚙️ MLOps and model deployment
+
+My next goal is to build a production-oriented **RAG/LLM project** combining retrieval, evaluation, APIs and containerized deployment.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-🎓 **Master's Degree in Artificial Intelligence**
+**Master's Degree in Artificial Intelligence**
 
-🎓 **Bachelor's Degree in Computer Engineering**
+**Bachelor's Degree in Computer Engineering**
 
 My academic and personal projects focus on applying AI to real-world problems while following solid software-engineering practices.
 
 ---
 
-## 💡 Areas I'm Interested In
+## 🎯 What I'm Looking For
 
-I'm particularly interested in junior opportunities involving:
+I'm currently open to junior opportunities in:
 
 - AI Engineering
 - Machine Learning Engineering
-- Generative AI
-- LLM / RAG systems
-- AI Agents
-- Computer Vision
 - Data Science
-- Predictive Modeling
+- Computer Vision
+- Generative AI / LLM systems
+
+📍 **Spain / Remote**
 
 ---
 
 ## 📫 Let's Connect
 
-I'm currently open to **Junior AI Engineer, Machine Learning Engineer and Data Scientist opportunities** in Spain or remote.
+I'm open to **Junior AI Engineer, Machine Learning Engineer and Data Scientist opportunities**.
 
-- 💼 LinkedIn: **Add your LinkedIn URL here**
-- 📧 Email: **Add your professional email here**
-- 💻 GitHub: **[github.com/Jfenic](https://github.com/Jfenic)**
+- 💼 [LinkedIn]([PON_AQUI_TU_LINKEDIN](https://www.linkedin.com/in/jose-fenic-peiteado-padilla/))
+- 📧 `jfenicp@gmail.com`
 
 ---
 
