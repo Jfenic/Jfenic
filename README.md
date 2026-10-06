@@ -126,7 +126,7 @@ I'm currently open to junior opportunities in:
 
 I'm open to **Junior AI Engineer, Machine Learning Engineer and Data Scientist opportunities**.
 
-- 💼 [LinkedIn]([PON_AQUI_TU_LINKEDIN](https://www.linkedin.com/in/jose-fenic-peiteado-padilla/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-fenic-peiteado-padilla/)
 - 📧 `jfenicp@gmail.com`
 
 ---
